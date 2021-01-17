@@ -1,0 +1,2 @@
+# MinhaAppMvcCompleta
+ aplicação curso aspnetcore
