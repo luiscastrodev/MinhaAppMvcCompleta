@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectPath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "packagesPath": "C:\\Users\\PC-KLSOFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
+      "outputPath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC-KLSOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",

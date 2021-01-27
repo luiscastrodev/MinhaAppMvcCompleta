@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd0QKEG7VwWUCfA7RMuDe0NZb94KoC3aFla3S9uInirDVRElCZV6NaS8ZXuSzdXendwVZeuVU+VTUHkF6UvVzQ==",
+  "dgSpecHash": "N/5LRHFlu/IsKPxEf/y94z/mD/FJ9sSDMnMDW/vcyVvajhLgIirSJSw223jueOnEToFfsaLGXUgUib/AYDgvlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
+  "projectFilePath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-KLSOFT\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\PC-KLSOFT\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

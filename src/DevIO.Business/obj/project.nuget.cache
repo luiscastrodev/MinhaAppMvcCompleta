@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Q4RUizXQNiWsc3FNxcFvFer14eDWY7yiuj92PCM1OMYMTYGU4URTmN0sGR/Uopw9Lu6gfy2viHeo1FGsUju2Q==",
+  "dgSpecHash": "8neVWJHYcU9Df1K7w3wMIV7kUwMa59VRsWnvN0VJyiFP2PZBWrclYwFtopjV5O621Zi7ZAHjXC1awWpPtkwyOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-KLSOFT\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
   ],

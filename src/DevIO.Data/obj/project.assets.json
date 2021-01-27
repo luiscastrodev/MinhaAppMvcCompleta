@@ -4978,11 +4978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
       "projectName": "DevIO.Data",
-      "projectPath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectPath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
       "packagesPath": "C:\\Users\\PC-KLSOFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
+      "outputPath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC-KLSOFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4999,8 +4999,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Users\\PC-KLSOFT\\Downloads\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "D:\\src\\Projetos\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
             }
           }
         }
